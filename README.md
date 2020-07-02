@@ -1,2 +1,1 @@
-# custom-console-js-plus
-custom console using javascript
+# Custom console using React and Redux
