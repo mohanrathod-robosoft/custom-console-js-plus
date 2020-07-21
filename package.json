@@ -27,7 +27,7 @@
     "babylon-walk": "^1.0.2",
     "babylon": "^6.18.0",
     "is-url": "^1.2.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
     "whatwg-fetch": "2.0.3"
